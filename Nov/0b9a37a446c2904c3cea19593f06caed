@@ -1,0 +1,37 @@
+var tag = document.createElement("script");
+						tag.src = "https://www.youtube.com/iframe_api";
+
+						var firstScriptTag = document.getElementsByTagName("script")[0];
+						firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
+
+						var player;
+
+						function onYouTubeIframeAPIReady() {
+							player = new YT.Player("td_youtube_player", {
+								height: "720",
+								width: "960",
+								events: {
+									"onReady": onPlayerReady
+								}
+							});
+						}
+
+						function onPlayerReady(event) {
+							player.setPlaybackQuality("hd720");
+						}
+					
+
+                
+
+                
+        Share this on WhatsApp
+
+
+
+The latest episode of Untold Facts, the innovative online series that seeks to clear common misconceptions about sexual orientation and gender identity in Nigeria, featured renowned medical doctor and co-publisher, Saraba Magazine, focusing on the effects of cultural, religious and societal backgrounds on homophobic traits and attitudes among Nigerians.
+Hosted by Arit Okpo, Damilola Ajayi explained that homophobia is an abnormal and persistent irrational fear for homosexuals which could be caused by a psychological and emotional feeling from our various thoughts and beliefs.
+ALSO SEE: Leaked memo: Groups flay Kyari over attacks on Oyo-Ita
+With homophobia infiltrating and eluding the values of human rights in Nigeria, the guest contended that due to backgrounds and orientation towards sexual minorities, Nigerians express homophobic traits and attitudes through verbal, physical and emotional aggression.
+The duo concluded that the effect of homophobia on sexual minorities is alarming in Nigeria, and advised that the society should educate themselves on the possibility of a country where sexual orientation is seen as part of an ever-evolving human nature rather than where citizens feel the need to marginalize and discriminate against sexual minorities.
+Share this on WhatsApp
+		Leave a comment
