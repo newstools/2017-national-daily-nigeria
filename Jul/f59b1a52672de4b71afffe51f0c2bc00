@@ -1,0 +1,47 @@
+var tag = document.createElement("script");
+						tag.src = "https://www.youtube.com/iframe_api";
+
+						var firstScriptTag = document.getElementsByTagName("script")[0];
+						firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
+
+						var player;
+
+						function onYouTubeIframeAPIReady() {
+							player = new YT.Player("td_youtube_player", {
+								height: "720",
+								width: "960",
+								events: {
+									"onReady": onPlayerReady
+								}
+							});
+						}
+
+						function onPlayerReady(event) {
+							player.setPlaybackQuality("hd720");
+						}
+					
+
+                
+
+                
+        Share this on WhatsApp
+
+
+
+By Boluwatife Ezekiel Olaleye
+The General Overseer of Christ Mercyland Deliverance Ministry, Prophet Jeremiah Omoto Fufueyin invited single men and women to the altar ordering them to start choosing whoever they like for marriage during a service in his Church in Warri, Delta State.
+During the prophetic service, the man of God summoned a lady and asked if she was married. The lady replied no, and the pastor asked her when she likes to get married.
+The clergyman then ordered her to choose any man she likes in the auditorium.
+The woman is then seen searching through the congregation to see a man of her choice.
+After the fruitless effort by the lady, the man of God concluded that there was a demonic mark upon her preventing her prospective husband from locating her.
+ 
+The pastor asked the lady:
+“Chop and go. How many men don chop you?”
+The matchmaking then metamorphosed to another level as the pastor eventually summoned all single men to file out and spinsters to line up behind the men of their choice.
+“If anybody wants to marry anyone here come and touch the person – any person you like.
+“We cannot allow women to be like this forever. I want to marry for these people.
+“Look at your back. I give you people from now till month ending to screen your wives. Nobody should go and meet for night o,” the man of God said.
+Pastor Fufeyin promised to sponsor the mass wedding of the would-be couples.
+
+Share this on WhatsApp
+		Leave a comment
