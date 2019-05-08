@@ -1,0 +1,43 @@
+var tag = document.createElement("script");
+						tag.src = "https://www.youtube.com/iframe_api";
+
+						var firstScriptTag = document.getElementsByTagName("script")[0];
+						firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
+
+						var player;
+
+						function onYouTubeIframeAPIReady() {
+							player = new YT.Player("td_youtube_player", {
+								height: "720",
+								width: "960",
+								events: {
+									"onReady": onPlayerReady
+								}
+							});
+						}
+
+						function onPlayerReady(event) {
+							player.setPlaybackQuality("hd720");
+						}
+					
+
+                
+
+                
+        
+ 
+
+
+Earlier this morning, unknown gunmen stormed the St. Philips Catholic Church, Ozubulu in Ekwusigo Local Government Area of Anambra, killing scores of worshippers and injuring many others.
+An eyewitness said on Sunday that the gunmen went into the church during the 5:45 am mass and identified a particular man and shot him.
+
+He said that the gunmen later went on a rampage and shot at the remaining worshippers numbering over 100.
+ALSO SEE: Kidnappings: IGP canvasses for more community policing
+Scores of people were killed in the church while other critically injured worshippers died on the way to the Nnamdi Azikiwe Teaching Hospital, Nnewi.
+The source, however, said the priest of the church was not wounded in the incident.
+
+The Commissioner of Police in the state, Mr Garba Umar, confirmed the incidence, adding that more details would be given after investigations.
+
+			
+			Post Views: 
+			99
