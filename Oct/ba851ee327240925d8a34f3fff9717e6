@@ -1,0 +1,14 @@
+Nigerian Communications Commission (NCC) has notified all network service providers of the postponement of the upcoming changes to Root Zone Domain Name System Security Extensions (DNSSEC) by the Internet Corporation of Assigned Names and Numbers (ICANN).
+This notification issued by NCC and signed by Tony Ojobo, director, Public Affairs NCC, said confirmed ICANN announced the postponement of its plan to change the root zone Key Signing Key (KSK) as planned earlier recently.
+The ICANN is a non-profit corporation that has responsibility for Internet Protocol (IP) address space allocation, protocol Identifier assignment, generic (gTLD) and country code (ccTLD) Top-Level Domain name system management, and root server system management functions.
+According to ICANN, changing the key involves generating a new cryptographic key pair and distributing the new public component to the DNSSEC validating resolvers.
+ALSO SEE: Much ado about FGN bond, Sukuk
+Based on the estimated number of Internet users worldwide who use DNSSEC validating resolvers, an estimated one-in-four global Internet users, or 750 million Internet users, could be affected by the KSK rollover.
+They stated that they had to postpone the root zone rollover of the KSK, which was originally scheduled to take place on 11th October, 2017 due to some recently obtained data that showed that a significant number of resolvers used by Internet Service Providers (ISPs) and Network Operators (NOs) are not yet ready for the Key Rollover.
+The Nigerian Communications Commission in performing its regulatory functions is using this opportunity to inform the Internet Service Providers and Network Operators within the country that are using DNSSEC validation on their network to prepare and ensure they are ready for the upcoming ‘rollover’, likely to be rescheduled for first quarter, 2018.
+ICANN will provide additional information as soon as it is available and the new Key Roll date will be announced as appropriate.
+However, ICANN is testing platform to confirm Network Operators infrastructure’s support of the new KSK.
+
+			
+			Post Views: 
+			215
